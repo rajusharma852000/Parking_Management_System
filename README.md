@@ -57,7 +57,7 @@ The **Parking Management System** is designed to efficiently allocate parking sp
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/parking-management-system.git
+   git clone https://github.com/rajusharma852000/Parking_Management_System.git
    ```
 
 2. **Install backend dependencies**:
